@@ -9,11 +9,11 @@ Want to learn more..? Read [here](http://predictiveprogrammer.com/deep-learning-
 ## What We Will Build?
 <table>
     <tr>
-        <td><img src='images\apple.JPG'></td>
-        <td><img src='images\apple_golden_1.JPG'></td>
-        <td><img src='images\apple_golden_2.JPG'></td>
-        <td><img src='images\apple_golden_1.JPG'></td>
-        <td><img src='images\banana.JPG'></td>
+        <td><img src='images\apple.jpg'></td>
+        <td><img src='images\apple_golden_1.jpg'></td>
+        <td><img src='images\apple_golden_2.jpg'></td>
+        <td><img src='images\apple_golden_1.jpg'></td>
+        <td><img src='images\banana.jpg'></td>
     </tr>
     <tr>
         <td style='text-align:center'>Apple Braeburn</td>
@@ -23,11 +23,11 @@ Want to learn more..? Read [here](http://predictiveprogrammer.com/deep-learning-
         <td style='text-align:center'>Banana</td>
     </tr>
     <tr>
-        <td><img src='images\cactus.JPG'></td>
-        <td><img src='images\cocos.JPG'></td>
-        <td><img src='images\grape.JPG'></td>
-        <td><img src='images\grapefruit.JPG'></td>
-        <td><img src='images\kiwi.JPG'></td>
+        <td><img src='images\cactus.jpg'></td>
+        <td><img src='images\cocos.jpg'></td>
+        <td><img src='images\grape.jpg'></td>
+        <td><img src='images\grapefruit.jpg'></td>
+        <td><img src='images\kiwi.jpg'></td>
     </tr>
     <tr>
         <td style='text-align:center'>Cactus fruit</td>
